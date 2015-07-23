@@ -6,8 +6,8 @@ android {
     buildToolsVersion "23.0.0 rc3"
 
     defaultConfig {
-        applicationId "deliberry.juange.com.itunessearcher"
-        minSdkVersion 9
+        applicationId "com.juange.deliberry.itunessearcher"
+        minSdkVersion 11
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
