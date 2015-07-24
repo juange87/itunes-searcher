@@ -1,4 +1,4 @@
-package com.juange.deliberry.itunessearcher.model;
+package com.juange.deliberry.itunessearcher.model.api;
 
 import android.os.Parcel;
 import android.os.Parcelable;
