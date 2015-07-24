@@ -2,7 +2,7 @@ package com.juange.deliberry.itunessearcher.api;
 
 import com.juange.deliberry.itunessearcher.BuildConfig;
 import com.juange.deliberry.itunessearcher.base.Constants;
-import com.juange.deliberry.itunessearcher.model.SearchResultResponse;
+import com.juange.deliberry.itunessearcher.model.api.SearchResultResponse;
 import retrofit.RestAdapter;
 import rx.Observable;
 

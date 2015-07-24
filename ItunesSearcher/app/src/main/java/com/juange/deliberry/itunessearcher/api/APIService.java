@@ -1,6 +1,6 @@
 package com.juange.deliberry.itunessearcher.api;
 
-import com.juange.deliberry.itunessearcher.model.SearchResultResponse;
+import com.juange.deliberry.itunessearcher.model.api.SearchResultResponse;
 import retrofit.http.GET;
 import retrofit.http.Query;
 import rx.Observable;
